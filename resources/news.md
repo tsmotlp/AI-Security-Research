@@ -23,8 +23,7 @@ This document curates a collection of recent news, articles, and updates in the 
 
 | Post Title | Author | Date | Link |
 | ---------- | ------ | ---- | ---- |
-| "Understanding AI Security Risks" | John Doe | 2023-01-25 | [Read More](link-to-post-1) |
-| "AI and Privacy: The Ongoing Debate" | Jane Smith | 2023-02-15 | [Read More](link-to-post-2) |
+| Why AI skills are the future of cybersecurity | Sridhar Iyer | 2023-11-30 | [Read More](https://www.siliconrepublic.com/business/ai-skills-future-cybersecurity-versa-networks) |
 | ...        | ...    | ...  | ...  |
 
 ...
