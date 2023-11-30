@@ -1,3 +1,4 @@
+[中文版](README_CN.md) | 
 # AI Security
 
 > A curated collection of the latest academic papers, conference information, and other resources in the field of AI Security.
