@@ -7,8 +7,6 @@ This document curates a collection of recent news, articles, and updates in the 
 | Article Title | Source | Date | Link |
 | ------------- | ------ | ---- | ---- |
 | Cyber security skills in the UK labour market 2023 | Department for Science, Innovation and Technology and Viscount Camrose | 2023-07-24 | [Report PDF](https://assets.publishing.service.gov.uk/media/64be95f0d4051a00145a91ec/Cyber_security_skills_in_the_UK_labour_market_2023.pdf) |
- | 2023-01-15 | [Read More](link-to-article-1) |
-| "New Advances in AI Threat Detection" | AI Daily | 2023-02-10 | [Read More](link-to-article-2) |
 | ...           | ...    | ...  | ...  |
 
 ## Industry Updates
@@ -24,6 +22,7 @@ This document curates a collection of recent news, articles, and updates in the 
 | Post Title | Author | Date | Link |
 | ---------- | ------ | ---- | ---- |
 | Why AI skills are the future of cybersecurity | Sridhar Iyer | 2023-11-30 | [Read More](https://www.siliconrepublic.com/business/ai-skills-future-cybersecurity-versa-networks) |
+| Research team exploits ChatGPT vulnerability to extract training data | Matthias Bastian | 2023-11-30 | [Read More](https://the-decoder.com/research-team-exploits-chatgpt-vulnerability-to-extract-training-data/) |
 | ...        | ...    | ...  | ...  |
 
 ...
