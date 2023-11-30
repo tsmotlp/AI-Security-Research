@@ -44,5 +44,5 @@
 ## 联系方式
 如有任何问题或建议，请通过以下方式联系我们：
 
-- [提交Issue](https://github.com/your-repository/issues)
+- [提交Issue](https://github.com/AI-Security-Research/issues)
 - 邮件联系: your-email@example.com
