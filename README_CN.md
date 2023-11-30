@@ -1,5 +1,3 @@
-![xxx](/img/logo.webp)
-
 [English Version](README.md)
 # AI安全 ![AI-Security](https://img.shields.io/badge/MIT-License-blue)
 
