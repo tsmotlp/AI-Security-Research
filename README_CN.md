@@ -31,8 +31,8 @@
 ## 资源链接
 包括在线课程、教程、研讨视频和相关开源项目的链接。
 
-- [教育资源](/resources/education.md)
-- [开源项目](/resources/opensource.md)
+- [课程资源](/resources/courses.md)
+- [开源项目](/resources/opensources.md)
 - [行业新闻](/resources/news.md)
 
 ## 如何贡献
