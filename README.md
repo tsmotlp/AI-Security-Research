@@ -44,5 +44,5 @@ The contents of this repository are licensed under the [MIT License](LICENSE). W
 ## Contact Information
 For any questions or suggestions, please contact us through the following:
 
-- [Submit an Issue](https://github.com/your-repository/issues)
+- [Submit an Issue](https://github.com/AI-Security-Research/issues)
 - Email: your-email@example.com
