@@ -1,4 +1,4 @@
-# AI Security Research Resource Collection
+# AI Security
 
 > A curated collection of the latest academic papers, conference information, and other resources in the field of AI Security.
 
