@@ -1,3 +1,4 @@
+[English Version](README_EN.md)
 # AI安全 ![AI-Security](https://img.shields.io/badge/MIT-License-blue)
 
 > 收集和共享AI安全领域的最新学术论文、会议信息和其他资源。
