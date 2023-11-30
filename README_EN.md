@@ -1,5 +1,5 @@
 [中文版](README_CN.md)
-# AI Security
+# AI Security ![AI-Security](https://img.shields.io/badge/MIT-License-blue)
 
 > A curated collection of the latest academic papers, conference information, and other resources in the field of AI Security.
 
