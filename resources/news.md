@@ -6,7 +6,8 @@ This document curates a collection of recent news, articles, and updates in the 
 
 | Article Title | Source | Date | Link |
 | ------------- | ------ | ---- | ---- |
-| "The Future of AI Security" | TechNews Magazine | 2023-01-15 | [Read More](link-to-article-1) |
+| Cyber security skills in the UK labour market 2023 | Department for Science, Innovation and Technology and Viscount Camrose | 2023-07-24 | [Report PDF](https://assets.publishing.service.gov.uk/media/64be95f0d4051a00145a91ec/Cyber_security_skills_in_the_UK_labour_market_2023.pdf) |
+ | 2023-01-15 | [Read More](link-to-article-1) |
 | "New Advances in AI Threat Detection" | AI Daily | 2023-02-10 | [Read More](link-to-article-2) |
 | ...           | ...    | ...  | ...  |
 
