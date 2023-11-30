@@ -44,7 +44,7 @@
 
 ## 社区
 
-我们鼓励您参与讨论，无论是贡献还是学习。查看[讨论](https://github.com/tsmotlp/AI-Security-Research/issues)页面，就一般性问题和想法进行讨论。
+我们鼓励您参与讨论，无论是贡献还是学习。查看[讨论](https://github.com/tsmotlp/AI-Security-Research/discussions)页面，就一般性问题和想法进行讨论。
 
 ## 感谢您！
 
