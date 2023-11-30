@@ -7,7 +7,7 @@ We welcome contributions to the AI Security Research Repository! If you're looki
 ### Reporting Issues
 
 If you find a problem with the content in the repository or have suggestions for improvements:
-1. Check the [Issues](https://github.com/your-repository/issues) page to see if it has already been reported.
+1. Check the [Issues](https://github.com/tsmotlp/AI-Security-Research/issues) page to see if it has already been reported.
 2. If not, create a new issue and provide as much detail as you can about the problem or suggestion.
 
 ### Contributing Papers and Resources
@@ -44,7 +44,7 @@ To add or update information about upcoming conferences and workshops:
 
 ## Community
 
-We encourage you to join the discussions, whether you're contributing or just looking to learn. Check out [Discussions](https://github.com/your-repository/discussions) for general questions and ideas.
+We encourage you to join the discussions, whether you're contributing or just looking to learn. Check out [Discussions](https://github.com/tsmotlp/AI-Security-Research/discussions) for general questions and ideas.
 
 ## Thank You!
 
