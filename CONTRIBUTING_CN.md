@@ -7,7 +7,7 @@
 ### 报告问题
 
 如果您在仓库的内容中发现问题或有改进建议：
-1. 查看[问题](https://github.com/AI-Security-Research/issues)页面，看看是否已经有人报告过。
+1. 查看[问题](https://github.com/tsmotlp/AI-Security-Research/issues)页面，看看是否已经有人报告过。
 2. 如果没有，创建一个新的问题，并尽可能详细地提供问题或建议的信息。
 
 ### 贡献论文和资源
@@ -44,7 +44,7 @@
 
 ## 社区
 
-我们鼓励您参与讨论，无论是贡献还是学习。查看[讨论](https://github.com/AI-Security-Research/discussions)页面，就一般性问题和想法进行讨论。
+我们鼓励您参与讨论，无论是贡献还是学习。查看[讨论](https://github.com/tsmotlp/AI-Security-Research/issues)页面，就一般性问题和想法进行讨论。
 
 ## 感谢您！
 
