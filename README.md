@@ -32,7 +32,7 @@ Information about upcoming conferences and workshops, including dates, locations
 Links to online courses, tutorials, seminar videos, and related open-source projects.
 
 - [Educational Resources](/resources/education.md)
-- [Open Source Projects](/resources/opensource.md)
+- [Open Source Resources](/resources/opensource.md)
 - [Industry News](/resources/news.md)
 
 ## How to Contribute
