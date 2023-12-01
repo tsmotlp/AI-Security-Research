@@ -4,9 +4,9 @@ This document lists various educational resources in the field of AI Security, i
 
 ## Online Courses
 
-| Course Title | Provider | Level | Link |
+| Course Title | Provider | Description | Link |
 | ------------ | -------- | ----- | ---- |
-| Introduction to AI Security | Provider 1 | Beginner | [Go to Course](course-link-1) |
+| 《人工智能安全》课程（复旦大学曾剑平） | 阿里云天池 | 涉及机器学习模型的投毒攻击、逃避攻击，聚类模型的攻击，以及人工智能技术在入侵检测、虚假新闻检测、谣言检测等方面的应用 | [Go to Course](https://tianchi.aliyun.com/course/990#:~:text=%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95) |
 | Advanced AI Security Practices | Provider 2 | Advanced | [Go to Course](course-link-2) |
 | AI Security in Practice | Provider 3 | Intermediate | [Go to Course](course-link-3) |
 | ...          | ...      | ...   | ...  |
