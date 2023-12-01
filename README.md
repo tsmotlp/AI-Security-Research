@@ -1,4 +1,4 @@
-[中文版](README_CN.md)
+English | [简体中文](README_CN.md)
 # AI Security Research ![AI Security Research](https://img.shields.io/badge/MIT-License-blue)
 
 > A curated collection of the latest academic papers, conference information, and other resources in the field of AI Security.
