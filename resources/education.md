@@ -24,8 +24,6 @@ This document lists various educational resources in the field of AI Security, i
 
 | Webinar Title | Host | Date | Link |
 | ------------- | ---- | ---- | ---- |
-| AI Security Trends | Host 1 | 2023-MM-DD | [Watch Webinar](webinar-link-1) |
-| Workshop on AI Threats | Host 2 | 2023-MM-DD | [Join Workshop](workshop-link-1) |
 | ...           | ...  | ...  | ...  |
 
 ...
