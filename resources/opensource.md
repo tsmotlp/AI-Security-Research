@@ -6,16 +6,12 @@ This document lists various open-source resources in the field of AI Security. T
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
-| AI Security Tool 1 | A tool for detecting and mitigating AI security threats. | [GitHub](link-to-tool-1) |
-| AI Vulnerability Scanner | An open-source scanner for identifying vulnerabilities in AI systems. | [GitHub](link-to-tool-2) |
 | ...  | ...         | ...  |
 
 ## Libraries and Frameworks
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
-| AI Security Library 1 | A library offering functions and algorithms for AI security analysis. | [GitHub](link-to-library-1) |
-| Deep Learning Security Framework | A framework focused on securing deep learning models. | [GitHub](link-to-framework-1) |
 | ...  | ...         | ...  |
 
 ## Community Projects
