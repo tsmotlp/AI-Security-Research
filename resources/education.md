@@ -6,7 +6,8 @@ This document lists various educational resources in the field of AI Security, i
 
 | Course Title | Provider | Description | Link |
 | ------------ | -------- | ----- | ---- |
-| 人工智能安全 | 复旦大学曾剑平和阿里云天池 | 涉及机器学习模型的投毒攻击、逃避攻击，聚类模型的攻击，以及人工智能技术在入侵检测、虚假新闻检测、谣言检测等方面的应用 | [Go to Course](https://tianchi.aliyun.com/course/990#:~:text=%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95) |
+| 人工智能安全 | 复旦大学曾剑平和阿里云天池 | 涉及机器学习模型的投毒攻击、逃避攻击，聚类模型的攻击，以及人工智能技术在入侵检测、虚假新闻检测、谣言检测等方面的应用 | [link](https://tianchi.aliyun.com/course/990#:~:text=%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95) |
+| Secure and Private AI | UDACITY | Learn three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. | [link](https://www.udacity.com/course/secure-and-private-ai--ud185) |
 | ...          | ...      | ...   | ...  |
 
 ## Tutorials and Guides
