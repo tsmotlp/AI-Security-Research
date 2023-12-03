@@ -25,7 +25,7 @@ We have compiled the latest papers in the field of AI Security, categorized by y
 ## Conferences and Workshops
 Information about upcoming conferences, including deadlines.
 
-- [Conferences Informations](https://sec-deadlines.github.io/)
+- [Conferences Information](https://sec-deadlines.github.io/)
 
 ## Resource Links
 Links to online courses, tutorials, seminar videos, and related open-source projects.
