@@ -13,8 +13,6 @@ This document curates a collection of recent news, articles, and updates in the 
 
 | Update Title | Organization | Date | Link |
 | ------------ | ------------ | ---- | ---- |
-| "Release of AI Security Framework v2.0" | AI Security Association | 2023-03-05 | [Read More](link-to-update-1) |
-| "Global AI Security Conference Highlights" | AI Events | 2023-04-20 | [Read More](link-to-update-2) |
 | ...          | ...          | ...  | ...  |
 
 ## Blog Posts and Articles
