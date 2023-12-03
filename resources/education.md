@@ -17,8 +17,7 @@ This document lists various educational resources in the field of AI Security, i
 
 | Tutorial Title | Description | Link |
 | -------------- | ----------- | ---- |
-| Tutorial on AI Security Basics | A comprehensive guide to the basics of AI Security. | [View Tutorial](tutorial-link-1) |
-| Implementing AI Security Measures | Step-by-step guide on implementing security measures in AI systems. | [View Tutorial](tutorial-link-2) |
+| Applied Machine Learning for Security Informatics | Short Course - Applied Machine Learning for Security Informatics. | [View Tutorial](https://github.com/albahnsen/ML_SecurityInformatics) |
 | ...            | ...         | ...  |
 
 ## Webinars and Workshops
