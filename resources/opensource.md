@@ -22,8 +22,8 @@ This document lists various open-source resources in the field of AI Security. T
 
 | Project Name | Description | Link |
 | ------------ | ----------- | ---- |
-| Project on AI Ethics and Security | A community project exploring ethical aspects of AI security. | [GitHub](link-to-project-1) |
-| AI Security Dataset Project | An open project for collecting and sharing datasets relevant to AI security. | [GitHub](link-to-project-2) |
+| machine learning for security | A community project for collecting resourses of machine learning for security. | [GitHub](https://github.com/mylamour/machine-learning-for-security) |
+| AI-Security-Learning | 自身学习的安全数据科学和算法的学习资料 | [GitHub](https://github.com/0xMJ/AI-Security-Learning) |
 | ...          | ...         | ...  |
 
 ...
