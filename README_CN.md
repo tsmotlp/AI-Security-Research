@@ -26,7 +26,7 @@
 ## 会议和研讨会信息
 提供安全和隐私领域的相关会议的信息，包括Deadline。
 
-- [会议信息](/conferences/upcoming.md)
+- [会议信息](https://sec-deadlines.github.io/)
 
 ## 资源链接
 包括在线课程、教程、研讨视频和相关开源项目的链接。
