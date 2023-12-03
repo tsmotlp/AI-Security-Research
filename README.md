@@ -23,7 +23,7 @@ We have compiled the latest papers in the field of AI Security, categorized by y
 - [Archive of Earlier Papers](/papers/archive.md)
 
 ## Conferences and Workshops
-Information about upcoming conferences, including deadlines.
+Information about Security and Privacy related conferences, including deadlines.
 
 - [Conferences Information](https://sec-deadlines.github.io/)
 
