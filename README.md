@@ -16,7 +16,7 @@ English | [简体中文](README_CN.md)
 This repository aims to provide a centralized, accessible collection of academic papers and resources for the AI Security research community. We are committed to updating with the latest research findings, covering but not limited to the security of AI systems, privacy issues, attack and defense strategies.
 
 ## Paper Collection
-We have compiled the latest papers in the field of AI Security, categorized by year and topic. Each paper entry includes the title, authors, publication date, and a link.
+We have compiled the latest papers in the field of AI Security, categorized by year and conferences/journals. Each paper entry includes the title, authors, link, code(if available) and presentation materials(if available).
 
 - [Papers from 2023](/papers/2023.md)
 - [Papers from 2022](/papers/2022.md)
