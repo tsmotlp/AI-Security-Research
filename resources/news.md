@@ -7,6 +7,7 @@ This document curates a collection of recent news, articles, and updates in the 
 | Article Title | Source | Date | Link |
 | ------------- | ------ | ---- | ---- |
 | Cyber security skills in the UK labour market 2023 | Department for Science, Innovation and Technology and Viscount Camrose | 2023-07-24 | [Report PDF](https://assets.publishing.service.gov.uk/media/64be95f0d4051a00145a91ec/Cyber_security_skills_in_the_UK_labour_market_2023.pdf) |
+| Hugging Face dodged a cyber-bullet with Lasso Security’s help | VentureBeat | 2023-12-04 | [link](https://venturebeat.com/security/hugging-face-dodged-a-cyber-bullet-with-lasso-securitys-help/) |
 | ...           | ...    | ...  | ...  |
 
 ## Industry Updates
