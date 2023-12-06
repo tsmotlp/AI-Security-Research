@@ -20,7 +20,6 @@ This document curates a collection of recent news, articles, and updates in the 
 
 | Post Title | Author | Date | Link |
 | ---------- | ------ | ---- | ---- |
-| AI安全 | HUAWEI | - | [Read More](https://www.huawei.com/cn/trust-center/ai-section) |
 | Why AI skills are the future of cybersecurity | Sridhar Iyer | 2023-11-30 | [Read More](https://www.siliconrepublic.com/business/ai-skills-future-cybersecurity-versa-networks) |
 | Research team exploits ChatGPT vulnerability to extract training data | Matthias Bastian | 2023-11-30 | [Read More](https://the-decoder.com/research-team-exploits-chatgpt-vulnerability-to-extract-training-data/) |
 | The impact of AI: Cybersecurity challenges and opportunities | Pluralsight Content Team | 2023-11-10 | [Read More](https://www.pluralsight.com/resources/blog/security/ai-impact-cybersecurity) |
@@ -35,6 +34,7 @@ This document curates a collection of recent news, articles, and updates in the 
 | ChatGPT安全风险-基于LLMs应用的Prompt注入攻击 | 绿盟科技 天元实验室 | 2023-04-24 | [Read More](https://mp.weixin.qq.com/s/zqddET82e-0eM_OCjEtVbQ) |
 | 我是如何用GPT自动化生成Nuclei的POC | Leiothrix, Evilc0de 安全团队 | 2023-04-14 | [Read More](https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb_Q) |
 | Using Artificial Intelligence in Cybersecurity | Balbix | - | [Read More](https://www.balbix.com/insights/artificial-intelligence-in-cybersecurity/) |
+| AI安全 | HUAWEI | - | [Read More](https://www.huawei.com/cn/trust-center/ai-section) |
 | ...        | ...    | ...  | ...  |
 
 ...
