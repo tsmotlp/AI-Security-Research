@@ -13,6 +13,7 @@ This document lists various open-source resources in the field of AI Security. T
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
+| Kunpeng | 一个Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。 | [Link](https://github.com/opensec-cn/kunpeng) |
 | ...  | ...         | ...  |
 
 ## Community Projects
