@@ -10,7 +10,7 @@ If you find a problem with the content in the repository or have suggestions for
 1. Check the [Issues](https://github.com/tsmotlp/AI-Security-Research/issues) page to see if it has already been reported.
 2. If not, create a new issue and provide as much detail as you can about the problem or suggestion.
 
-### Contributing Papers and Resources
+### Contributing Papers
 
 To add a new paper or resource:
 1. Fork the repository.
@@ -24,7 +24,7 @@ To add a new paper or resource:
    - Slides to the paper (if available online)
 4. Create a pull request to merge your changes into the main repository.
 
-### AI Security Resources
+### Contributing AI Security Resources
 
 To add or update information about AI Security Resources:
 1. Fork the repository.
