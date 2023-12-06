@@ -22,6 +22,7 @@ This document curates a collection of recent news, articles, and updates in the 
 | ---------- | ------ | ---- | ---- |
 | Why AI skills are the future of cybersecurity | Sridhar Iyer | 2023-11-30 | [Read More](https://www.siliconrepublic.com/business/ai-skills-future-cybersecurity-versa-networks) |
 | Research team exploits ChatGPT vulnerability to extract training data | Matthias Bastian | 2023-11-30 | [Read More](https://the-decoder.com/research-team-exploits-chatgpt-vulnerability-to-extract-training-data/) |
+| AIGC在安全领域的思考和尝试 - AI安全助手 | wolf | 2023-06-24 | [Read More](https://opensec-cn.github.io/#/articles/2) |
 | ...        | ...    | ...  | ...  |
 
 ...
