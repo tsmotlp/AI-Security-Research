@@ -18,22 +18,18 @@ To add a new paper or resource:
 3. Ensure your addition follows the existing format:
    - Title
    - Authors
-   - Publication date
-   - A brief summary or key points
-   - Link to the resource (if available online)
+   - PDF link to the peper
+   - Code to the paper (if available online)
+   - Video presentation to the paper (if available online)
+   - Slides to the paper (if available online)
 4. Create a pull request to merge your changes into the main repository.
 
-### Conferences and Workshop Information
+### AI Security Resources
 
-To add or update information about upcoming conferences and workshops:
+To add or update information about AI Security Resources:
 1. Fork the repository.
 2. Add or update the event details in the relevant section/file.
-3. Follow the existing format, providing:
-   - Name of the event
-   - Date(s)
-   - Location
-   - Brief description
-   - Link to the event website
+3. Follow the existing format, details can be found at [Resources links](https://github.com/tsmotlp/AI-Security-Research/blob/master/README.md#resource-links).
 4. Create a pull request.
 
 ### Guidelines
