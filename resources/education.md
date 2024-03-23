@@ -2,6 +2,13 @@
 
 This document lists various educational resources in the field of AI Security, including online courses, tutorials, webinars, and more. These resources are aimed at providing learning opportunities for individuals at different levels of their AI Security journey.
 
+
+## Overviews
+- [Artificial Intelligence Security: Threats and Countermeasures](https://dl.acm.org/doi/abs/10.1145/3487890)
+- [AI安全综述](https://blog.csdn.net/hwz2311245/article/details/135191774#comments_30599093)
+- [AI Security Overview](https://owaspai.org/docs/ai_security_overview/)
+
+
 ## Online Courses
 
 | Course Title | Provider | Description | Link |
